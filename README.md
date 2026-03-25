@@ -95,11 +95,5 @@ Response:
 }
 ```
 
-## Recruiter Sell
-
-- Built and documented cross-team full-stack flow.
-- Optimized for real-time frame-level confidence and batch scoring.
-- Modular to support Swapped Datasets (FaceForensics++, DFDC, DeepFakeDetection corpus).
-- AWS-friendly (EC2, Elastic Beanstalk, API Gateway ➜ S3 static site, auto scaling with GPU). 
 
 
