@@ -1,0 +1,11 @@
+.app-container {padding: 2rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: 0 auto;}
+input[type='file'] {margin-bottom: 1rem;}
+button {padding: 0.6rem 1.25rem; border:none; background:#3b82f6; color:white; border-radius:0.35rem; cursor:pointer;}
+button:disabled {background:#94a3b8; cursor:not-allowed;}
+.result-card {margin-top: 1rem; background:#f8fafc; border:1px solid #cbd5e1; padding:1rem; border-radius:0.6rem;}
+.bar {display:flex; align-items:center; margin:0.5rem 0; gap:0.5rem;}
+.bar > span {width:3rem; font-weight:600;}
+.bar > .fill {height:1rem; flex:1; background:#ef4444; border-radius:0.25rem;}
+.bar > .fill.real {background:#22c55e;}
+.bar > strong {width:4rem; text-align:right;}
+.error {color:#b91c1c; margin-top:1rem; font-weight:700;}
